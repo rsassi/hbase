@@ -22,3 +22,7 @@ linklint/
 **/.checkstyle
 .java-version
 tmp
+
+*.vcxproj.user
+*.patch
+**/pom.xml.versionsBackup
